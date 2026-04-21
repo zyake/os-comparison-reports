@@ -10,6 +10,7 @@ A collection of comprehensive technical reports covering Linux, macOS, and Windo
 | [macOS Report](reports/macos_report.md) | Comprehensive look at macOS — XNU hybrid kernel, APFS, Apple Silicon's Unified Memory Architecture, Metal graphics, defense-in-depth security (SIP, Gatekeeper, Secure Enclave), and the Apple Continuity ecosystem. |
 | [Windows Report](reports/windows_report.md) | Technical breakdown of Windows NT — hybrid kernel, NTFS/ReFS, DirectX 12 graphics stack, security architecture (BitLocker, Credential Guard, HVCI), enterprise management (AD, Group Policy, Intune), and gaming ecosystem. |
 | [OS Comparison](reports/os_comparison_report.md) | Unified side-by-side comparison across all three operating systems covering kernel design, file systems, memory management, scheduling, graphics, security, networking, package management, and ecosystem strengths/weaknesses. |
+| [Local LLM Deployment Guide](reports/local_llm_deployment_report.md) | Comprehensive guide to deploying and optimizing local LLM inference across Windows, macOS, and Linux — covering kernel tuning, WDDM vs. DRM performance, Apple Silicon MLX benchmarks, security hardening, quantization strategies, and hardware-specific recommendations. |
 
 ## Quality Reviews
 
